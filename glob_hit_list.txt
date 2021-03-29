@@ -1,0 +1,43 @@
+	Best_Hit_on_global_fun_db
+>Alternaria_alternata_MPI-PUGE-AT-0064	SH2179670.08FU
+>Alternaria_rosae_MPI-PUGE-AT-0040_#1	SH1858974.08FU
+>Boeremia_exigua_MPI-SDFR-AT-0100	SH1186898.08FU
+>Chaetomium_funicola_MPI-SDFR-AT-0129	SH1800513.08FU
+>Chaetomium_megalocarpum_MPI-CAGE-AT-0009_#2	SH1615599.08FU
+>Coprinopsis_phaeopunctatus_MPI-PUGE-AT-0042	SH1186641.08FU
+>Dactylonectria_estremocensis_MPI-CAGE-AT-0021	SH2456106.08FU
+>Dactylonectria_macrodidyma_MPI-CAGE-AT-0147	SH1143088.08FU
+>Dendryphion_nanum_MPI-CAGE-CH-0243	SH1573986.08FU
+>Fusarium_commune_MPI-SDFR-AT-0072	SH1238606.08FU
+>Fusarium_equiseti_MPI-CAGE-AA-0113	SH1187585.08FU
+>Fusarium_oxysporum_MPI-SDFR-AT-0094	SH1238606.08FU
+>Fusarium_redolens_MPI-CAGE-AT-0023	SH1247230.08FU
+>Fusarium_solani_MPI-SDFR-AT-0091	SH1220339.08FU
+>Fusarium_tricinctum_MPI-SDFR-AT-0044	SH1173747.08FU
+>Fusarium_venenatum_MPI-CAGE-CH-0201	SH1610169.08FU
+>Ilyonectria_europaea_MPI-CAGE-AT-0026	SH1551687.08FU
+>Leotiomycetes_sp._MPI-SDFR-AT-0126	SH1173322.08FU
+>Leptodontidium_orchidicola_MPI-SDFR-AT-0119	no sh hit !, use samples from hitlist
+>Macrophomina_phaseolina_MPI-SDFR-AT-0080	SH1144002.08FU
+>Microdochium_trichocladiopsis_MPI-CAGE-CH-0230_#1	SH1555461.08FU
+>Mortierella_elongata_MPI-CAGE-AA-0104	SH1555461.08FU
+>Neonectria_radicicola_MPI-CAGE-AT-0134	SH1546325.08FU
+>Oliveonia_pauxilla_MPI-PUGE-AT-0066	SH1560208.08FU
+>Paraphoma_chrysanthemicola_MPI-GEGE-AT-0034	SH1193201.08FU
+>Paraphoma_chrysanthemicola_MPI-SDFR-AT-0120	SH1576179.08FU
+>Plectosphaerella_cucumerina_MPI-CAGE-AT-0016	SH1563343.08FU
+>Pyrenochaeta_lycopersici_MPI-SDFR-AT-0127_#2	SH1552164.08FU
+>Stachybotrys_elegans_MPI-CAGE-CH-0235	SH1940178.08F
+>Thanatephorus_cucumeris_MPI-SDFR-AT-0096_#3	SH1551728.08FU
+>Truncatella_angustata_MPI-SDFR-AT-0073	SH1552799.08FU
+>Verticillium_dahliae_MPI-CAGE-AT-0001_#16	SH2164812.08FU
+>Zalerion_varium_MPI-CAGE-AT-0135_#1	SH1246301.08FU
+>0079	SH2475999.08FU
+>0046	no sh hit
+>0117	SH1563343.08FU
+>0083	SH1151598.08FU
+>0241	SH1563291.08FU
+>0212	SH1238606.08FU
+>0068	no sh hit
+>0058	no sh hit
+

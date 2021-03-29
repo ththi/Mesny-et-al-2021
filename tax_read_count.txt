@@ -1,0 +1,11 @@
+transect_asv	genome_41
+Sordariomycetes	507290	579015
+Dothideomycetes	436518	46843
+Agaricomycetes	426381	4205
+Leotiomycetes	349660	138635
+Mucoromycetes	22187	11752
+Pezizomycotina	14695	0
+Eurotiomycetes	10526	0
+other	535073	0
+
+
